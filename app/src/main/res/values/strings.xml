@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MoviFirst</string>
+    <string name="IniciarSesion">Iniciar Sesion</string>
+    <string name="Registrar01">Registrar Cliente</string>
+    <string name="Registrar02">Registrar Conductor</string>
+    <string name="Derechos">2019 - TM - Todos los Derechos Reservados</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Limpiar">Limpiar</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Recordatorio">Recordatorio</string>
+    <string name="Contactar">Contactar</string>
+    <string name="tit_Registro_Con">Registrar Conductor</string>
+    <string name="tit_Registro_Cli">Registrar Cliente</string>
+    <string name="tit_Registro_Hij">Registrar Hijo</string>
+</resources>
